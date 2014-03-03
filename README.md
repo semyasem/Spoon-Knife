@@ -1,4 +1,5 @@
 ### Well hello there!
+This message should display on delte branch then merged to master branch
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
